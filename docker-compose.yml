@@ -1,0 +1,6 @@
+﻿services:
+  mailtest:
+    image: mailtest
+    build:
+      context: .
+      dockerfile: MailTest/Dockerfile
