@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\José Emmanuel\\Documents\\GitHub\\Mailtrap\\Mailtrap.csproj": {}
+    "C:\\Users\\JE ELITEVOIP\\RiderProjects\\Mailtrap\\Mailtrap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\José Emmanuel\\Documents\\GitHub\\Mailtrap\\Mailtrap.csproj": {
+    "C:\\Users\\JE ELITEVOIP\\RiderProjects\\Mailtrap\\Mailtrap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\Mailtrap\\Mailtrap.csproj",
+        "projectUniqueName": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\Mailtrap\\Mailtrap.csproj",
         "projectName": "Mailtrap",
-        "projectPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\Mailtrap\\Mailtrap.csproj",
-        "packagesPath": "C:\\Users\\José Emmanuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\José Emmanuel\\Documents\\GitHub\\Mailtrap\\obj\\",
+        "projectPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\Mailtrap\\Mailtrap.csproj",
+        "packagesPath": "C:\\Users\\JE ELITEVOIP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JE ELITEVOIP\\RiderProjects\\Mailtrap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\José Emmanuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\JE ELITEVOIP\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
